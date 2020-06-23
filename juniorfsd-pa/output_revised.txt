@@ -1,0 +1,9 @@
+
+testGetNoteById=true
+testUpdateNote=false
+testInsertNote=true
+testDeleteNote=true
+testViewlAll=true
+testViewAllPage=true
+testStatusPage=true
+testHomePage=true
